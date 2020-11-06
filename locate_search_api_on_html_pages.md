@@ -24,6 +24,8 @@ Resource: [http://www.gregreda.com/2015/02/15/web-scraping-finding-the-api/](htt
 
 5. Once you found the API you were searching for, you can go to the Header tab and search for the ```request URL``` of the API you need.
 
+    ![Image 3](https://github.com/angelavuong/webscraping_101/blob/master/images/webscraping-3.png)
+
     In our example, my request URL is:
     ```
     https://devnet.cisco.com/v1/metadata/catalogs/search?fastMode=true&type=Code&pageSize=12&pageNum=1&keyPrefix=Ansible&extended=true
@@ -31,4 +33,4 @@ Resource: [http://www.gregreda.com/2015/02/15/web-scraping-finding-the-api/](htt
 
     You can then verify the API response simply by searching the URL in your browser:
 
-    ![Image 3](https://github.com/angelavuong/webscraping_101/blob/master/images/webscraping-3.png)
+    ![Image 4](https://github.com/angelavuong/webscraping_101/blob/master/images/webscraping-4.png)
